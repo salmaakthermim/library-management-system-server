@@ -27,7 +27,7 @@ The Library Management API is a full-featured backend system designed to manage 
 
 ```bash
 # Clone the repository
-git clone https://github.com/Obaidullah-ahsan/Library-Management-System-Server.git
+git clone https://github.com/salmaakthermim/library-management-system-server
 cd Library-Management-System-Server
 
 # Install dependencies
